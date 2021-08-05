@@ -1,2 +1,2 @@
-# atm
+# atm pada main
 perkenalan
